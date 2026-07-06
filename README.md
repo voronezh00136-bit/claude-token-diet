@@ -1,6 +1,6 @@
-# claude-token-diet
+# claude-fable-token-diet
 
-A two-layer skill stack for [Claude Code](https://claude.com/claude-code) that cuts token spend 3–10x without cutting output quality.
+A two-layer skill stack for [Claude Code](https://claude.com/claude-code) on **Claude Fable 5 / the Claude 5 family** that cuts token spend 3–10x without cutting output quality. The base layer works on any Claude model; the overlay targets what's new (and newly expensive) in Fable.
 
 ![Token-saving skill stack](assets/token-diet-stack.svg)
 
@@ -45,9 +45,9 @@ Say **"don't economize"** (or explicitly ask for a workflow / widget / screensho
 ## Install
 
 ```bash
-git clone https://github.com/voronezh00136-bit/claude-token-diet.git
-cp -r claude-token-diet/skills/token-econom ~/.claude/skills/
-cp -r claude-token-diet/skills/fable-token-diet ~/.claude/skills/
+git clone https://github.com/voronezh00136-bit/claude-fable-token-diet.git
+cp -r claude-fable-token-diet/skills/token-econom ~/.claude/skills/
+cp -r claude-fable-token-diet/skills/fable-token-diet ~/.claude/skills/
 ```
 
 Both skills auto-invoke on multi-step tasks (see their `description` frontmatter). `fable-token-diet` only matters on Fable/Mythos sessions; on Sonnet/Haiku the base skill alone is enough. Skip `fable-token-diet` if you don't run the Claude 5 family.
