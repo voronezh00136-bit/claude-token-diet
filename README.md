@@ -2,7 +2,7 @@
 
 A two-layer skill stack for [Claude Code](https://claude.com/claude-code) that cuts token spend 3–10x without cutting output quality.
 
-![Token-saving skill stack](assets/token-diet-stack.png)
+![Token-saving skill stack](assets/token-diet-stack.svg)
 
 ## Why
 
