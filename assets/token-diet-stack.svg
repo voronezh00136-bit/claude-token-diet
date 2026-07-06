@@ -1,0 +1,54 @@
+<svg viewBox="0 0 800 640" width="800" height="640" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tt">
+<title id="tt">Token-saving skill stack for Claude Code</title>
+<rect x="0" y="0" width="800" height="640" fill="#FAF9F5"/>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8A8578"/></marker>
+</defs>
+<text x="50" y="52" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#191919">Token-saving skill stack for Claude Code</text>
+<text x="50" y="78" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6B675E">same output, a fraction of the spend</text>
+<g font-family="Helvetica, Arial, sans-serif">
+<rect x="50" y="106" width="320" height="54" rx="6" fill="#D97757"/>
+<text x="68" y="129" font-size="15" font-weight="bold" fill="#FFFFFF">fable-token-diet</text>
+<text x="68" y="148" font-size="12" fill="#FBE4DA">overlay for Claude Fable 5</text>
+<rect x="50" y="176" width="220" height="40" rx="6" fill="#F5E3DB" stroke="#D97757"/>
+<text x="160" y="200" font-size="12.5" fill="#7A3A22" text-anchor="middle">no agent / workflow fan-out</text>
+<rect x="290" y="176" width="220" height="40" rx="6" fill="#F5E3DB" stroke="#D97757"/>
+<text x="400" y="200" font-size="12.5" fill="#7A3A22" text-anchor="middle">widgets only on request</text>
+<rect x="530" y="176" width="220" height="40" rx="6" fill="#F5E3DB" stroke="#D97757"/>
+<text x="640" y="200" font-size="12.5" fill="#7A3A22" text-anchor="middle">batch ToolSearch schemas</text>
+<rect x="50" y="226" width="220" height="40" rx="6" fill="#F5E3DB" stroke="#D97757"/>
+<text x="160" y="250" font-size="12.5" fill="#7A3A22" text-anchor="middle">wake-ups: ≤270s or ≥1200s</text>
+<rect x="290" y="226" width="220" height="40" rx="6" fill="#F5E3DB" stroke="#D97757"/>
+<text x="400" y="250" font-size="12.5" fill="#7A3A22" text-anchor="middle">low effort for mechanical work</text>
+<rect x="530" y="226" width="220" height="40" rx="6" fill="#F5E3DB" stroke="#D97757"/>
+<text x="640" y="250" font-size="12.5" fill="#7A3A22" text-anchor="middle">trust the summary, no re-reads</text>
+<line x1="400" y1="274" x2="400" y2="306" stroke="#8A8578" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="414" y="296" font-size="12" fill="#6B675E">extends</text>
+<rect x="50" y="312" width="320" height="54" rx="6" fill="#1D9E75"/>
+<text x="68" y="335" font-size="15" font-weight="bold" fill="#FFFFFF">token-econom</text>
+<text x="68" y="354" font-size="12" fill="#D8F2E8">base savings mode, any model</text>
+<rect x="50" y="382" width="160" height="40" rx="6" fill="#DFF0E9" stroke="#1D9E75"/>
+<text x="130" y="406" font-size="12.5" fill="#085041" text-anchor="middle">triage S / M / L</text>
+<rect x="230" y="382" width="160" height="40" rx="6" fill="#DFF0E9" stroke="#1D9E75"/>
+<text x="310" y="406" font-size="12.5" fill="#085041" text-anchor="middle">cheap-first ladder</text>
+<rect x="410" y="382" width="160" height="40" rx="6" fill="#DFF0E9" stroke="#1D9E75"/>
+<text x="490" y="406" font-size="12.5" fill="#085041" text-anchor="middle">digest, not full reads</text>
+<rect x="590" y="382" width="160" height="40" rx="6" fill="#DFF0E9" stroke="#1D9E75"/>
+<text x="670" y="406" font-size="12.5" fill="#085041" text-anchor="middle">no screenshots</text>
+<rect x="50" y="432" width="160" height="40" rx="6" fill="#DFF0E9" stroke="#1D9E75"/>
+<text x="130" y="456" font-size="12.5" fill="#085041" text-anchor="middle">diffs, not rewrites</text>
+<rect x="230" y="432" width="160" height="40" rx="6" fill="#DFF0E9" stroke="#1D9E75"/>
+<text x="310" y="456" font-size="12.5" fill="#085041" text-anchor="middle">verify once</text>
+<rect x="410" y="432" width="160" height="40" rx="6" fill="#DFF0E9" stroke="#1D9E75"/>
+<text x="490" y="456" font-size="12.5" fill="#085041" text-anchor="middle">batch everything</text>
+<rect x="590" y="432" width="160" height="40" rx="6" fill="#DFF0E9" stroke="#1D9E75"/>
+<text x="670" y="456" font-size="12.5" fill="#085041" text-anchor="middle">context hygiene</text>
+<line x1="400" y1="480" x2="400" y2="512" stroke="#8A8578" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="414" y="502" font-size="12" fill="#6B675E">builds on</text>
+<rect x="50" y="518" width="700" height="50" rx="6" fill="#EEEBE2" stroke="#B4B2A9"/>
+<text x="68" y="540" font-size="14" font-weight="bold" fill="#444441">CLAUDE.md · token economy rules</text>
+<text x="68" y="558" font-size="12" fill="#6B675E">loaded into every session</text>
+<rect x="240" y="588" width="320" height="36" rx="18" fill="#191919"/>
+<text x="400" y="611" font-size="13" fill="#FAF9F5" text-anchor="middle">kill-switch: &quot;don't economize&quot;</text>
+</g>
+</svg>
